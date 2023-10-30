@@ -1,0 +1,12 @@
+Package: loadMDV
+Type: Package
+Title: Installs and loads some Magnus D Vigeland (MDV) libraries from GitHub
+Version: 1.0.0
+Author: Thore Egeland
+Maintainer: Thore Egeland <Thore.Egeland@gmail.com>
+Description: Not much more to say
+License: GPL-3
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
+RoxygenNote: 7.2.3
