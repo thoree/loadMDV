@@ -10,3 +10,5 @@ Encoding: UTF-8
 Language: en-GB
 LazyData: true
 RoxygenNote: 7.2.3
+URL: https://github.com/thoree/loadMDV
+BugReports: https://github.com/thoree/loadMDV/issues
